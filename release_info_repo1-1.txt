@@ -1,5 +1,5 @@
 #Test
-url: https://github.com/cck-narita/release/info/repo3
+url: https://github.com/cck-narita/release_repo1
 branch: main
 tag: HEAD
 publish_in_opengrok: true
