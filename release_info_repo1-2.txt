@@ -1,0 +1,5 @@
+#Test
+url: https://github.com/cck-narita/release/info/repo4
+branch: test
+tag: test_tag
+publish_in_opengrok: true
